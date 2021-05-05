@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: diagram-traverser
+  main:
+    banner-mode: off
+    web-application-type: none
